@@ -1,0 +1,25 @@
+﻿canvas {
+    	position: absolute;
+    	left: 0;
+    	right: 0;
+    	margin:auto;
+		}
+
+body {
+	   background-image: url('images/guitar-background.png');
+	   background-position: center 0px;
+   		}
+
+h1 {
+	text-align: center;
+	color: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: xx-large;
+}
+   
+   div {
+		text-align:center;
+	}
+canvas {
+}
